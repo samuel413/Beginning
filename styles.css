@@ -1,0 +1,24 @@
+body {background-color : black;
+}
+
+h1, button {
+    background-color: #000000;
+    border-color:#000000;
+    color:#4bec13;
+    font-size:300%;
+    font-family: 'Roboto Mono', monospace;
+}
+
+.tinkywinky, .daisy {
+    display:flex;
+    justify-content:center;
+}
+
+.lala {
+    display:flex;
+    justify-content:center;
+}
+
+button {
+    width:400px;
+}
